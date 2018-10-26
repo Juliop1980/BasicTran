@@ -76,7 +76,7 @@ Se ejecuta ./BasicTran <Programa>
 
 ## Autores
 
-Leonardo Lopez Almazan 
+Leonardo Lopez Almazan,  
 Julio Perez
 
 
